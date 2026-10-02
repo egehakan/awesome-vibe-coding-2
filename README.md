@@ -787,6 +787,7 @@ Tools and resources for comparing AI coding assistants and measuring performance
 - [LLM Pricing Tracker](https://llmpricecheck.com) - Compare pricing across AI model providers. **[Free]**
 - [Cursor vs Copilot vs Windsurf](https://www.reddit.com/r/cursor/) - Community comparisons on Reddit (search in r/cursor, r/programming). **[Free]**
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar) - Industry-respected assessment of tools, techniques, and platforms including AI coding tools. **[Free]**
+- [kodwai](https://www.kodwai.com) - Platform where developers solve real coding challenges on their own machine with their own AI coding agent (Claude Code, Cursor, or Codex) and get scored on how well they direct the agent, across three axes: Direction, Outcome, and Lift. Built for practicing agentic coding and vibe coding, with a public leaderboard. **[Free]**
 ## Learning Resources
 
 ### Articles & Blog Posts
